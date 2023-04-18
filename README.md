@@ -44,3 +44,5 @@ You can then use the loaded model to make predictions using the same code as in 
 ```
 print(ml.predict([[5000]]))
 ```
+
+> By Sayak Pal
